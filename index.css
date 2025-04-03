@@ -14,3 +14,11 @@ p {
     padding-top: 500px;
     padding-bottom: 50px;
 }
+
+.buttons {
+    background: #e7e7e7;
+    margin-top: 30px;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+}
